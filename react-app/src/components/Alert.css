@@ -1,0 +1,11 @@
+.alert {
+    padding: 0.75rem;
+}
+
+.alert-danger {
+    background-color: red;
+}
+
+.alert-success {
+    background-color: green;
+}
