@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deepdive/tree/main/react-app/static/css/main.66e4e7e3.css",
+    "main.js": "/deepdive/tree/main/react-app/static/js/main.2939ebaa.js",
+    "static/js/453.2a82e7ac.chunk.js": "/deepdive/tree/main/react-app/static/js/453.2a82e7ac.chunk.js",
+    "index.html": "/deepdive/tree/main/react-app/index.html",
+    "main.66e4e7e3.css.map": "/deepdive/tree/main/react-app/static/css/main.66e4e7e3.css.map",
+    "main.2939ebaa.js.map": "/deepdive/tree/main/react-app/static/js/main.2939ebaa.js.map",
+    "453.2a82e7ac.chunk.js.map": "/deepdive/tree/main/react-app/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e4e7e3.css",
+    "static/js/main.2939ebaa.js"
+  ]
+}
